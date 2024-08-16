@@ -1,0 +1,21 @@
+{
+  "name": "net.cytrax.shader",
+  "displayName": "CytraX Shaders",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "CytraX Custom Shader for VRChat",
+  "author": {
+    "email": "help@cytrax.net",
+    "name": "CytraX",
+    "url": "https://cytrax.net"
+  },
+  "vpmDependencies": {
+    "com.llealloo.audiolink": ">=0.3.2",
+    "at.pimaker.ltcgi": ">=1.6.0"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "Packages\\net.cytrax.shader",
+  "hideInEditor": false,
+  "license": ""
+}
