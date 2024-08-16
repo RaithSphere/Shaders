@@ -3,6 +3,9 @@ name: Build Release
 on: 
   workflow_dispatch:
 
+env:
+  packageName: "net.cytrax.shader"
+
 jobs:
 
   # Validate Repository Configuration
